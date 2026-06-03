@@ -1,3 +1,3 @@
 # ticketing system
 
-console.log('this is spartan') 
+console.log('Im spartan') 
